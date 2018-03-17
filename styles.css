@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~font-awesome/css/font-awesome.css";
+
+h1 {
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    text-align: center;
+}
+
+body {
+    background-color: rgba(248, 215, 121, 0.2);
+}
